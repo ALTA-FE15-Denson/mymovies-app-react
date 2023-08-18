@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "image": "https://image.tmdb.org/t/p/w500/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+        "title": "Transformers: Rise of the Beasts",
+        "description": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+        "duration": 100,
+        "release": "Tuesday, 6 June 2023"
+    },
+    {
+        "id": 2,
+        "image": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "title": "The Flash",
+        "description": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+        "duration": 144,
+        "release": "Tuesday, 13 June 2023"
+    },
+    {
+        "id": 3,
+        "image": "https://image.tmdb.org/t/p/w500/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",
+        "title": "Meg 2: The Trench",
+        "description": "An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.",
+        "duration": 116,
+        "release": "Tuesday, 20 June 2023"
+    },
+    {
+        "id": 4,
+        "image": "https://image.tmdb.org/t/p/w500/xzAQ28moSPEZxOHJ7WL1mX6hb5H.jpg",
+        "title": "Resident Evil: Death Island",
+        "description": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+        "duration": 91,
+        "release": "Thursday, 22 June 2023"
+    },
+    {
+        "id": 5,
+        "image": "https://image.tmdb.org/t/p/w500/d07phJqCx6z5wILDYqkyraorDPi.jpg",
+        "title": "Insidious: The Red Door",
+        "description": "To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.",
+        "duration": 107,
+        "release": "Wednesday, 5 July 2023"
+    },
+    {
+        "id": 6,
+        "image": "https://image.tmdb.org/t/p/w500/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg",
+        "title": "Hidden Strike",
+        "description": "Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.",
+        "duration": 103,
+        "release": "Thursday, 6 July 2023"
+    },
+    {
+        "id": 7,
+        "image": "https://image.tmdb.org/t/p/w500/kgrLpJcLBbyhWIkK7fx1fM4iSvf.jpg",
+        "title": "Ruby Gillman, Teenage Kraken",
+        "description": "Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
+        "duration": 91,
+        "release": "Wednesday, 28 June 2023"
+    },
+    {
+        "id": 8,
+        "image": "https://image.tmdb.org/t/p/w500/9dTO2RygcDT0cQkawABw4QkDegN.jpg",
+        "title": "Shin Kamen Rider",
+        "description": "A man forced to bear power and stripped of humanity. A woman skeptical of happiness. Takeshi Hongo, an Augmentation made by SHOCKER, and Ruriko Midorikawa, a rebel of the organization, escape while fighting off assassins. What’s justice? What’s evil? Will this violence end? Despite his power, Hongo tries to remain human. Along with freedom, Ruriko has regained a heart. What paths will they choose?",
+        "duration": 121,
+        "release": "Friday, 17 March 2023"
+    }
+
+]
