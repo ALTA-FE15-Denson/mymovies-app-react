@@ -80,8 +80,8 @@ class Detail extends Component<DetailProps> {
       <section>
         {
           selectedMovie && (
-            <div className="h-[90vh] w-full relative"> 
-                <img src={`https://image.tmdb.org/t/p/original${selectedMovie?.poster_path}`}alt=""  className="h-[90vh] w-full  object-cover"/>
+            <div className="h-[100vh] w-full relative"> 
+                <img src={`https://image.tmdb.org/t/p/original${selectedMovie?.poster_path}`}alt=""  className="h-[100vh] w-full  object-cover"/>
                 <DetailCard 
                   title={selectedMovie?.title}
                   poster_path={selectedMovie?.poster_path}
