@@ -17,7 +17,7 @@ const Dashboard = () => {
         <div className='mt-10 px-10 flex flex-row'>
             <Sidebar />
             <div className='w-[80vw] bg-white mx-10 relative'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minus consectetur accusantium sit dolore reprehenderit pariatur libero, cupiditate consequuntur odit hic tempore. Quisquam rem eveniet adipisci magni ex delectus sequi.
+                sadad Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius minus consectetur accusantium sit dolore reprehenderit pariatur libero, cupiditate consequuntur odit hic tempore. Quisquam rem eveniet adipisci magni ex delectus sequi.
                 Dolor natus nostrum qui quia, dicta, sunt sapiente unde consequuntur placeat aspernatur fugit ipsum id, delectus eveniet error deleniti quaerat eius sequi consectetur culpa adipisci laudantium? Ea est dolorum rem?
                 Assumenda cum placeat neque accusamus, sint non debitis nihil qui? Dolorem repellendus veritatis atque nesciunt animi tempora earum odio velit impedit at, perspiciatis sapiente accusantium laudantium, eos, tenetur error. Voluptates?
                 Obcaecati laborum rerum temporibus atque, a consequuntur illum ipsum veniam debitis, consectetur exercitationem magni sint saepe aut commodi culpa natus ipsam quam nesciunt laboriosam! Veritatis nobis corporis sed nam vero?
